@@ -4,8 +4,8 @@ description: Mywebpage
 show_downloads: True
 navigation:
   - title: Home
-    url: /niz.html
+    url: 
   - title: Setup
     url: setup
 title: NIZ uptake
-url: niz
+url: /niz.html
