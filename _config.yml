@@ -3,9 +3,8 @@ title: GitHub pages template
 description: Mywebpage
 show_downloads: True
 navigation:
-  - title: Home
-    url: 
+  - title: NIZ uptake
+    url: /niz.html
   - title: Setup
     url: setup
-   -title: NIZ uptake
-    url: /niz.html
+ 
