@@ -4,7 +4,7 @@ description: Mywebpage
 show_downloads: True
 navigation:
   - title: NIZ uptake
-    url: NIZ uptake/niz
+    url: niz
   - title: Setup
     url: setup
  
